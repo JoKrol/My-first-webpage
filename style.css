@@ -42,3 +42,21 @@ text-shadow:
 	color: #ACB0E6;
 	float:right;
 }
+
+a:link {
+	text-decoration: none;
+	color:#b7a6d6;
+	
+}
+a:visited {
+  text-decoration: none;
+  color: #b7a6d6;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+  
